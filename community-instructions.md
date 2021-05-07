@@ -87,7 +87,7 @@ _Note: You will need a GitHub account to start a discussion. If you do not have 
 3. Click **New Discussion**
 4. You will be prompted with **Start New Discussion** screen
 5. Select a Category for the discussion you want to start
-	- If you are experiencing an _issue with our platorm_  choose **General**
+	- If you are experiencing an _issue with our platform_  choose **General**
 	- If you are submitting an _idea or comment_ choose **Ideas** 
 	- If you want to _ask community for help_ choose **Q&A** 
 	- If you want to share _something else_ choose **Show and Tell** 
