@@ -7,7 +7,7 @@
 We are so grateful that you have decided to help us and share your feedback on the Reserve Lending® Platform. 
 
 ---
-Depending on how comfortable and familiar you are with GitHub, you can report a bug or technical issue by **sumbitting an issue** or ask a question by **starting a discussion**.
+Depending on how comfortable and familiar you are with GitHub, you can report a bug or technical issue by **submitting an issue** or ask a question by **starting a discussion**.
 
 ### Submit an Issue 
 
