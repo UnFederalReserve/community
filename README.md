@@ -22,7 +22,7 @@ Below are instructions on how as alpha testers you can help test and log issues.
 
 ### Alpha Testing Server
 
-Test URL: <a href="https://lending-stage.unfederalreservetesting.com/" target="_blank">https://lending-stage.unfederalreservetesting.com//</a> 
+Test URL: <a href="https://lending-stage.unfederalreservetesting.com/" target="_blank">https://lending-stage.unfederalreservetesting.com/</a> 
 
 _residual/reserve123 is username/password, if asked._
 
