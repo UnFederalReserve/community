@@ -108,7 +108,7 @@ _Note: You will need a GitHub account to submit an issue/bug. If you do not have
 
 - Browser-based testing only. No mobile (but will be added soon after!)
 
-- When reporting issues in Discord please indicate the following fields:
+- When reporting issues in please indicate the following fields:
   \- Mobile/PC
   \- OS/version
   \- browser/version
@@ -133,7 +133,3 @@ _NOTE:  we changed the network due to Chainlink® integration restrictions_
 <p align="center">
   <img  src="https://i.ibb.co/hDnmqbJ/tester2.png">
 </p>
-
-
-
-
