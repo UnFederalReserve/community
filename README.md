@@ -2,17 +2,17 @@
   <img  src="https://i.ibb.co/xDjMkJF/uat-header.png">
 </p>
 
-**Reserve Lending® Platform Alpha Testing**
+**ReserveLending® Platform Rinkeby Test Network**
 
-We are so grateful that you have decided to help us Alpha test the Reserve Lending® Platform. It is folks like you who have driven the success of our project to-date. Thank you!.
+We are so grateful that you have decided to explore the ReserveLending® Platform. It is folks like you who have driven the success of our project to-date. Thank you!.
 
 ---
 
-👷 **How to Contribute**
+👷 **How to Get Started**
 
-Below are instructions on how as alpha testers you can help test and log issues.
+Below are instructions on how you can explore ReserveLending® on the Rinkeby Test Network.  Here you can help test and log issues.
 
-- [Alpha Testing Server](#Alpha-Testing-Server)
+- [Rinkeby Test Server](#Rinkeby-Test-Server)
 - [Discord Channel](#Discord-Channel)
 - [Submit an Issue](#Submit-an-Issue)
 - [Key Things to Test](#Key-Things-to-Test)
@@ -20,18 +20,16 @@ Below are instructions on how as alpha testers you can help test and log issues.
 
 ---
 
-### Alpha Testing Server
+### Rinkeby Test Server
 
 Test URL: <a href="https://lending-stage.unfederalreservetesting.com/" target="_blank">https://lending-stage.unfederalreservetesting.com/</a> 
-
-_residual/reserve123 is username/password, if asked._
 
 ---
 
 ### Discord Channel
 
-For chat based immediate support and feedback please use the _reserve alpha testing_ channel on discord.<br>
-<a href="https://discord.gg/kKNjNqgQGv" target="_blank">unFederal Reserve Discord</a> 
+For community technical discussions on the ReserveLending® Rinkeby Test Network please use the _alpha-testers_ channel on discord.<br>
+<a href="https://discord.gg/unfederalreserve" target="_blank">unFederalReserve Discord</a> 
 
 ---
 
@@ -42,10 +40,10 @@ _Note: You will need a GitHub account to submit an issue/bug. If you do not have
 
 1. **Sign in** to your GitHub account
 
-2. Click the link below to take you to the ReserveLendingAlphaTesters repository.  
+2. Click the link below to take you to the Community repository.  
    
 
-	<a href="https://github.com/UnFederalReserve/ReserveLendingAlphaTesters/issues" target="_blank">Link to Issues in the repository</a> 
+	<a href="https://github.com/UnFederalReserve/Community/issues" target="_blank">Link to Issues in the repository</a> 
 
 3. Click **New issue**
 
@@ -102,10 +100,10 @@ _Note: You will need a GitHub account to submit an issue/bug. If you do not have
 ### Key Things to Test
 
 - Enable all tokens for platform
-- Add Supply, claim eRSDL rewards for all tokens
-- Borrow funds, claim eRSDL rewards for all tokens
+- Add Supply, claim eRSDL rewards for all tokens*
+- Borrow funds, claim eRSDL rewards for all tokens*
 
-**Key things to note during Alpha testing:**
+**Key Things to Note**
 
 - Browser-based testing only. No mobile (but will be added soon after!)
 
@@ -115,13 +113,6 @@ _Note: You will need a GitHub account to submit an issue/bug. If you do not have
   \- browser/version
   \- wallet/version
 
-- There will be a follow-up regarding detailed calculations around APY so you can better optimize your strategy early next week.
-
-- We are purposely not giving you detailed instructions on how to use the platform. We want to treat you as "new users" to the platform and see if you are able to meet the main tasks above.
-
-- Keep trying out <a href="https://compound.finance" target="_blank">https://compound.finance</a> 
-_Our application’s dApp will closely mimic this functionality_
-
 - Understand how to use MetaMask and switch to the **Rinkeby** network
 _NOTE:  we changed the network due to Chainlink® integration restrictions_
 
@@ -129,12 +120,12 @@ _NOTE:  we changed the network due to Chainlink® integration restrictions_
 
   - If you need test ETH on *Rinkeby*, please request here: <a href="https://faucet.rinkeby.io/](https://faucet.rinkeby.io/" target="_blank">Rinkeby faucet</a> 
   
-### Training Video
+### Training Videos
 
-This alpha tester training video will show you all the working features
+<p align="center">
 
-  <a href="https://us02web.zoom.us/rec/share/jdv5N30WvGml1q-IgqE4YYgsDIbCSK5gCDoNI0_cfsaL3nJGxr6wrw0Oz1VoPHSW.OJZKNmW4iNkrGoOf?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9WqhD0kkLHmWQ-o8NlNxRRmkjKVr0W0IOaD2g7XAQv-Q01H0ML2h0iAPvmZjozsOWg8UG1" target="_blank">Demo Video</a> <br>
-Passcode: =3q#NfBJ *\
+<a href="https://www.youtube.com/watch?v=gtOXxUPuxfA&list=PLq9nkYExTSr1GDyQpgxljMnBkxZnqW0_w](https://www.youtube.com/watch?v=gtOXxUPuxfA&list=PLq9nkYExTSr1GDyQpgxljMnBkxZnqW0_w" target="_blank"><img  src="https://img.youtube.com/vi/gtOXxUPuxfA/0.jpg"></a>
+</p>
 
 ---
 
