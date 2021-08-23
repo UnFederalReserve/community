@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://i.ibb.co/xDjMkJF/uat-header.png">
+  <a href="https://linktr.ee/unfederalreserve" target="_blank"> <img  src="https://i.ibb.co/xDjMkJF/uat-header.png"> </a>
 </p>
 
 **ReserveLending® Platform Rinkeby Test Network**
@@ -17,6 +17,7 @@ Below are instructions on how you can explore ReserveLending® on the Rinkeby Te
 - [Submit an Issue](#Submit-an-Issue)
 - [Key Things to Test](#Key-Things-to-Test)
 - [Training Video](#Training-Video)
+- [ReserveLending® Docs](https://lending-docs.unfederalreserve.com/)
 
 ---
 
