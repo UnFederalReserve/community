@@ -2,9 +2,9 @@
   <a href="https://linktr.ee/unfederalreserve" target="_blank"> <img  src="https://i.ibb.co/xDjMkJF/uat-header.png"> </a>
 </p>
 
-**ReserveLending® Platform Rinkeby Test Network**
+**ReserveLending® Rinkeby Test Network**
 
-We are so grateful that you have decided to explore the ReserveLending® Platform. It is folks like you who have driven the success of our project to-date. Thank you!.
+We are so grateful that you have decided to explore ReserveLending®. It is folks like you who have driven the success of our project to-date and we thank you!
 
 ---
 
